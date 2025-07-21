@@ -1,9 +1,9 @@
 {
-  "name": "kwk-scrollytelling-template",
+  "name": "broadband-vs-education",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jasminesamra.github.io/kwk-scrollytelling-template",
+  "homepage": "https://github.com/juhighosh007/broadband-vs-education",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
