@@ -18,7 +18,7 @@
     <Scroll backgroundImage="https://images.pexels.com/photos/13189196/pexels-photo-13189196.jpeg">
         {#snippet scrolly()}
         <Headers>
-                No Wi-Fi. 
+                No Wi-Fi? 
             </Headers>
 
             <Headers>

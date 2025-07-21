@@ -13,6 +13,7 @@
     .wrapper {
         position: relative;
         background-color: transparent;
+        
     }
 
     .bgImage {
