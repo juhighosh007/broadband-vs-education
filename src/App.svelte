@@ -15,7 +15,7 @@
   <Title/>
   <PageOne/>
   <PageTwo />
-  <CTA/>
   <DisappearingDuckExample />
+  <CTA/>
   <Footer/>
 </main>
