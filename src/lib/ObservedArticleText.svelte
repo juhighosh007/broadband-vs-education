@@ -32,11 +32,15 @@
     .article-text {
         margin: 50vh auto;
         width: 50%;
-        background-color: #ff99fc;
-        color: #007052;
-        border: solid #8427c9 3px;
-        border-radius: 20px;
-        padding: 20px;
-        box-shadow: 16px 16px #8aa6df;
+        border: solid 3px black;
+        box-shadow: 10px 10px #484444;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+        color: #264653;
+        font-size: 1.5rem;
+        text-shadow: 1px 1px 2px white;
+        text-align: center;
+        background-color: #e9ecef;  
+        padding: 15px;
+        
     }
 </style>
