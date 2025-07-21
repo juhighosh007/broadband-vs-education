@@ -24,7 +24,7 @@
 </script>
 
 <div class=container>
-    <Scroller layout="right">
+    <Scroller layout="left">
         {#snippet sticky()}
             <div>
                 <img src="https://images.pexels.com/photos/3280130/pexels-photo-3280130.jpeg" alt="hand cheer"> 
