@@ -41,7 +41,7 @@ chart: {
 colors: ['#5b8dee', '#2A9D8F'],
   
 title: {
-    text: 'Broadband vs Education Data',
+    text: 'Broadband vs Education Data (2023)',
     style: {
       fontFamily: 'Helvetica, sans-serif',
       fontSize: '14px',
@@ -90,7 +90,7 @@ series: [
 
 </script>
 
-<div>
+<div class="container">
     <Scroller layout="left">
         {#snippet sticky()}
             <div class="chart">
@@ -157,5 +157,10 @@ series: [
         font-size: 1rem;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
         color: #1c343e;
+    }
+
+    .container {
+      background-color: #f7f5eb;
+      padding: 25px 25px; 
     }
 </style>

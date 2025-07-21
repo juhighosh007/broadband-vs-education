@@ -14,7 +14,6 @@
 
 <style>
     .wrapper {
-        background-color: #f7f5eb;
         padding: min(100vh, 30rem) 1rem;
         display: flex;
         flex-direction: row;
