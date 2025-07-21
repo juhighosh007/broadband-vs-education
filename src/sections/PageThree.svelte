@@ -73,6 +73,10 @@
 
             <ObservedArticleText {callback} {options}>
                 <p>These stories underscore what’s at stake when internet access is treated as optional - and who picks up the slack when institutions fall short.</p>
+                
+            </ObservedArticleText>
+
+            <ObservedArticleText {callback} {options}>
                 <p>They also hint at what's possible: when one woman arms her town with hotspots, or when a single hotspot powers an entire neighborhood’s dreams, the infrastructure may be invisible - but its impact is undeniable.</p>
             </ObservedArticleText>
 
