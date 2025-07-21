@@ -6,8 +6,8 @@
     <h1>HOW DOES <span class="bold">BROADBAND ACCESS</span> IMPACT <span class="bold">EDUCATIONAL ATTAINMENT</span> IN BLACK COMMUNITIES?</h1>
     <p class="name">By <Links link="https://www.linkedin.com/in/juhighsh/">Juhi Ghosh</Links> | July 2025 </p>
     <div class="texts">
-        <p>We often call education the great equalizer, but what happens when access to learning itself is unequal?</p>
-        <p>After 2020, the shift to online learning wasn't a luxury, it was a necessity. Yet millions of students were locked out, not because of academic struggle, but because their homes lacked broadband internet. And for many Black communities across the U.S., this wasn't the exception. It was the norm.
+        <p>We often call education the great equalizer, but what happens when <strong>access to learning</strong> itself is <span class="contrast">unequal?</span></p>
+        <p>After 2020, the shift to <strong>online learning</strong> wasn't a luxury, it was a <strong>necessity</strong>. Yet millions of students were locked out, not because of academic struggle, but because their homes lacked broadband internet. And for many Black communities across the U.S., this wasn't the exception. It was the norm.
 </p>
         <p>Let's take a step back.</p>
         <p>We assume broadband access is like electricity - something everyone has. But <Links link="according to All4Ed">according to All4Ed</Links>, over <span class="contrast">16.9 million</span> children in the U.S. are part of the <strong>“homework gap”</strong> - they can't complete schoolwork because they don't have internet access at home. Black, Latino, and Indigenous students are disproportionately represented in that number.</p>
