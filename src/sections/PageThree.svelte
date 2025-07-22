@@ -13,7 +13,7 @@
 
             if (entry.intersectionRatio >= 0.9) {
                 // "active" state
-                elem.style.backgroundColor = "#e9ecef";
+                elem.style.backgroundColor = "#f7f5eb";
             } else if (entry.intersectionRatio < 0.9) {
                 // "inactive" state
                 elem.style.backgroundColor = "#888888";
@@ -97,7 +97,7 @@
     }
 
     .container {
-        background-color: #f7f5eb;
+        background-color: #e9ecef;
         padding: 25px 25px;
     }
 
