@@ -40,14 +40,14 @@ Once the server is running, open your browser and go to `http://localhost:5173/`
 
 ## Credits & Acknowledgments
 <strong>Data Source:</strong>
- <ul>All data used in this project is sourced from the [Black Wealth Data Center](https://blackwealthdata.org/) (BWDC), a national platform providing comprehensive data on the economic well-being of Black communities across the U.S.</ul>
+ All data used in this project is sourced from the [Black Wealth Data Center](https://blackwealthdata.org/) (BWDC), a national platform providing comprehensive data on the economic well-being of Black communities across the U.S.
 
 <strong>Visualizations:</strong>
- <ul>The interactive bar chart was built using Highcharts with implementation assistance from AI (ChatGPT) to support the integration process.</ul>
- <ul>The scatter plot was created entirely using Plotly with the help of AI for both code generation and formatting guidance.</ul>
+ The interactive bar chart was built using Highcharts with implementation assistance from AI (ChatGPT) to support the integration process.
+ The scatter plot was created entirely using Plotly with the help of AI for both code generation and formatting guidance.
 
 <strong>Development Framework:</strong>
- <ul>This project was developed using the Kode With Klossy Scrollytelling Starter Template powered by Svelte, and customized to reflect the project's core narrative and data story.</ul>
+ This project was developed using the Kode With Klossy Scrollytelling Starter Template powered by Svelte, and customized to reflect the project's core narrative and data story.
 
 <!-- MARKDOWN LINKS -->
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
