@@ -42,10 +42,9 @@ Once the server is running, open your browser and go to `http://localhost:5173/`
 <strong>Data Source:</strong>
  All data used in this project is sourced from the [Black Wealth Data Center](https://blackwealthdata.org/) (BWDC), a national platform providing comprehensive data on the economic well-being of Black communities across the U.S.
 
-<strong>Visualizations:</strong>
- The interactive bar chart was built using Highcharts with implementation assistance from AI (ChatGPT) to support the integration process.
- The scatter plot was created entirely using Plotly with the help of AI for both code generation and formatting guidance.
-
+<strong>Note:</strong>
+ This project is currently not optimized for mobile devices. For the best experience, please view it on a laptop or desktop. Mobile responsiveness is a work in progress.
+ 
 <strong>Development Framework:</strong>
  This project was developed using the Kode With Klossy Scrollytelling Starter Template powered by Svelte, and customized to reflect the project's core narrative and data story.
 
