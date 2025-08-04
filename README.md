@@ -20,9 +20,9 @@ This scrollytelling project explores the powerful link between broadband access 
 
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [Highcharts](https://www.highcharts.com/)
-* HTML5
-* CSS3
-* JavaScript (ES6)
+* HTML
+* CSS
+* JavaScript
 
 ## Recommended IDE Setup
 
